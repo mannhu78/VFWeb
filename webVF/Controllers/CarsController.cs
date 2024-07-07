@@ -5,15 +5,23 @@ using webVF.DataBase;
 
 public class CarsController : Controller
 {
+    /*
     private readonly VinFastDbContext _context;
 
     public CarsController(VinFastDbContext context)
     {
         _context = context;
     }
+    */
+    public IActionResult Cars()
+    {
+        return View();
+    }
+
 
     // GET: Cars
-    public async Task<IActionResult> Index()
+    /*
+    public async Task<IActionResult> Cars()
     {
         return View(await _context.Cars.ToListAsync());
     }
@@ -55,4 +63,5 @@ public class CarsController : Controller
         }
         return View(car);
     }
+    */
 }

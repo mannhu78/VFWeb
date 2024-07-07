@@ -7373,11 +7373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\webVF\\webVF\\webVF\\webVF.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\webVF\\webVF\\webVF.csproj",
       "projectName": "webVF",
-      "projectPath": "E:\\webVF\\webVF\\webVF\\webVF.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\webVF\\webVF\\webVF.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\webVF\\webVF\\webVF\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\webVF\\webVF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
